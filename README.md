@@ -4,16 +4,24 @@
 💻 Backend разработчик из Казахстана 🇰🇿  
 
 🚀 Стек технологий:
-- PHP
-- Laravel
-- MySQL
-- REST API
-- JavaScript
-- Vue.js
-- HTML / CSS
+
+Backend:
+ • PHP
+ • ООП 
+ • MySQL, PostgreSQL
+ • Laravel 
+ • REST API
+ • Git / GitLab
+ • Golang
+
+Frontend:
+ • HTML
+ • CSS
+ • Bootstrap
+ • Blade
 
 ### 🚀 Технологии
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,git" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgre,js,html,css,git,golang" />
 </p>
