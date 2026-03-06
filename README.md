@@ -15,5 +15,5 @@
 ### 🚀 Технологии
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,vue,html,css,git,linux" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,git" />
 </p>
