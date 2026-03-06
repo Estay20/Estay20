@@ -32,16 +32,32 @@
 
 ---
 
-### Обо мне:
+### 💻 Обо мне
 
-PHP-разработчик с практическим опытом разработки веб-приложений на Laravel. Участвовал в коммерческом проекте, работал в команде с Android-разработчиком — реализовывал backend и REST API для мобильного приложения. Имею опыт разработки CRM-систем, административных панелей (Craftable) и API-сервисов. Работаю с Git/GitLab в командной среде. Нацелен на развитие в backend-разработке и участие в коммерческих проектах.
+PHP-разработчик с практическим опытом веб-разработки на Laravel.  
+Работал в команде с Android-разработчиком — реализовывал backend и REST API для мобильного приложения.  
+Опыт разработки CRM-систем, административных панелей (Craftable) и API-сервисов.  
+Работаю с Git/GitLab в командной среде.  
+Нацелен на развитие в backend-разработке и участие в коммерческих проектах.
 
 ---
 
-### Пет-проекты (GitHub):
+### 📂 Пет-проекты (GitHub)
 
- • crm — мини CRM-система на Laravel 10, система управления клиентами/задачами. Стек: PHP, Laravel, Blade.
- • quiz-app-copy — веб-приложение с тестами и вопросами (PHP, Laravel, MySQL).
- • chat-dip — CRM-система для малого бизнеса (PHP, Laravel).
- • Estay — социальная сеть (PHP, Laravel).
- • api — проект API с CRUD-операциями (PHP).
+- [crm](https://github.com/Estay20/crm) — мини CRM-система на Laravel 10 для управления клиентами и задачами (PHP, Laravel, Blade)  
+- [quiz-app-copy](https://github.com/Estay20/quiz-app-copy) — веб-приложение с тестами и вопросами (PHP, Laravel, MySQL)  
+- [chat-dip](https://github.com/Estay20/chat-dip) — CRM для малого бизнеса с перепиской между пользователями (PHP, Laravel)  
+- [Estay](https://github.com/Estay20/Estay) — социальная сеть (PHP, Laravel)  
+- [api](https://github.com/Estay20/api) — REST API с CRUD-операциями (PHP)  
+
+---
+
+### 📊 GitHub Статистика
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Estay20&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estay20&layout=compact&theme=tokyonight" />
+</p>
