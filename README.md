@@ -1,27 +1,31 @@
 <h1 align="center">Привет 👋, я Естай</h1>
 <h3 align="center">Backend разработчик (PHP / Laravel)</h3>
 
-💻 Backend разработчик из Казахстана 🇰🇿  
+💻 Backend-разработчик из Казахстана 🇰🇿  
 
-🚀 Стек технологий:
+---
 
-Backend:
- • PHP
- • ООП 
- • MySQL, PostgreSQL
- • Laravel 
- • REST API
- • Git / GitLab
- • Golang
+## 🚀 Стек технологий
 
-Frontend:
- • HTML
- • CSS
- • Bootstrap
- • Blade
+### Backend
+- PHP  
+- ООП (базовый уровень)  
+- MySQL, PostgreSQL  
+- Laravel (MVC, маршрутизация, миграции, Eloquent, API)  
+- REST API  
+- Git / GitLab  
+- Golang  
 
-### 🚀 Технологии
+### Frontend
+- HTML  
+- CSS  
+- Bootstrap  
+- Blade  
 
-<p>
+---
+
+### ⚡ Технологии (иконки)
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgre,js,html,css,git,golang" />
 </p>
