@@ -9,9 +9,9 @@
 
 ### Backend
 - PHP  
-- ООП (базовый уровень)  
+- ООП 
 - MySQL, PostgreSQL  
-- Laravel (MVC, маршрутизация, миграции, Eloquent, API)  
+- Laravel 
 - REST API  
 - Git / GitLab  
 - Golang  
