@@ -27,5 +27,5 @@
 ### ⚡ Технологии (иконки)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgre,js,html,css,git,golang" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,git,golang" />
 </p>
