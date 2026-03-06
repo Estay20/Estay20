@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Привет 👋, я Естай</h1>
+<h3 align="center">Backend разработчик (PHP / Laravel)</h3>
 
-<!--
-**Estay20/Estay20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend разработчик из Казахстана 🇰🇿  
 
-Here are some ideas to get you started:
+🚀 Стек технологий:
+- PHP
+- Laravel
+- MySQL
+- REST API
+- JavaScript
+- Vue.js
+- HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Технологии
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,vue,html,css,git,linux" />
+</p>
